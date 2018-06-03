@@ -39,7 +39,6 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/java9.iml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" />
@@ -129,9 +128,33 @@
       <file leaf-file-name="BarkingDog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Methods/BarkingDog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state relative-caret-position="264">
+              <caret line="15" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BarkingDog.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Documentation/Methods/BarkingDog.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="409">
+                <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -146,11 +169,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeapYear.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeapYear.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Documentation/Methods/LeapYear.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
+              <first_editor relative-caret-position="-286">
                 <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
                 <folding />
               </first_editor>
@@ -200,6 +223,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Methods/BarkingDog.java" />
         <option value="$PROJECT_DIR$/src/main/java/Methods/LeapYear.java" />
         <option value="$PROJECT_DIR$/Documentation/Methods/LeapYear.md" />
+        <option value="$PROJECT_DIR$/Documentation/Methods/BarkingDog.md" />
       </list>
     </option>
   </component>
@@ -1364,14 +1388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/BarkingDog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Methods/LeapYear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1383,8 +1399,38 @@
     <entry file="file://$PROJECT_DIR$/Documentation/Methods/LeapYear.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
+          <first_editor relative-caret-position="-286">
             <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/BarkingDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/Methods/BarkingDog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="409">
+            <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
