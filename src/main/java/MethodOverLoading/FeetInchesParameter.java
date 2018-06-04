@@ -21,7 +21,7 @@ public class FeetInchesParameter {
      * @return
      */
     public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
-        if (feet < 0 || (inches < 0 && inches >= 12)) {
+        if (feet < 0 || (inches < 0 || inches >= 12)) {
             return -1;
         }
         /**
@@ -45,7 +45,7 @@ public class FeetInchesParameter {
     }
 
     public static void main(String[] args) {
-        double value = calcFeetAndInchesToCentimeters(1.0, 11);
+        double value = calcFeetAndInchesToCentimeters(-10, 5);
         System.out.println(value);
         double newValue = calcFeetAndInchesToCentimeters(13);
         System.out.println(newValue);
