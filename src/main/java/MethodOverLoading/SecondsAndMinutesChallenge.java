@@ -6,12 +6,12 @@ package MethodOverLoading;
 public class SecondsAndMinutesChallenge {
 
     public static void main(String[] args) {
-        String durationString = getDurationString(61*60);
+        String durationString = getDurationString(61, 61);
         System.out.println(durationString);
     }
 
     public static String getDurationString(int minutes, int seconds) {
-        if (minutes < 0 || (seconds < 0 && seconds > 59)) {
+        if (minutes < 0 || (seconds < 0 || seconds > 59)) {
             return "Invalid Value";
         }
 
