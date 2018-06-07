@@ -15,16 +15,16 @@ public class SecondsAndMinutesChallenge {
             return "Invalid Value";
         }
 
-        int totalSeconds = minutes * 60 + seconds;
-        int hours = totalSeconds / (60 * 60);
-        int remainingSeconds = totalSeconds % (60 * 60);
-        int leftMinutes = remainingSeconds / 60;
-        int leftSeconds = remainingSeconds % 60;
+        int hours = minutes / 60;
+        int leftMinutes = minutes % 60;
 
-        return hours + "h " + leftMinutes + "m " + leftSeconds + "s";
+        return hours + "h " + leftMinutes + "m " + seconds + "s";
     }
 
     public static String getDurationString(int seconds) {
+        if (seconds < 0) {
+            return "Invalid value";
+        }
         int minutes = seconds / 60;
         int remainingSeconds = seconds % 60;
         return getDurationString(minutes, remainingSeconds);
