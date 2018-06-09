@@ -6,8 +6,9 @@ package MethodOverLoading;
 public class SecondsAndMinutesChallenge {
 
     public static void main(String[] args) {
-        String durationString = getDurationString(61, 61);
+        String durationString = getDurationString(65, 45);
         System.out.println(durationString);
+        System.out.println(getDurationString(3945));
     }
 
     public static String getDurationString(int minutes, int seconds) {
