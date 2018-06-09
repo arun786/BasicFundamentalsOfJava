@@ -2,46 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ce4ae8-1704-4181-9c32-35db09d4890a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/Algorithm/Sorting/InsertionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/Java-data-structures.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/java9.iml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/hg.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/LinkedList.class" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/Java-data-structures-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/Node.class" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/LinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/ScalaBasics.iml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/Algorithm/Sorting/InsertionSort.class" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/LinkedList.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/classes/datastructurelinkedlist/Node.class" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/hg.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ScalaBasics/ScalaBasics.iml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/Java-data-structures.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/Algorithm/Sorting/InsertionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/LinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/src/main/java/datastructurelinkedlist/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBootWithPagination/Java-data-structures/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/java9.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/java9/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/UseOfOptional.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/pom.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/Main.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/model/Person.java" afterPath="$USER_HOME$/springdatarest/workspace/UseOfOptional/src/main/java/model/Person.java" />
     </list>
@@ -65,40 +65,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TeenNumberCheck.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Methods/TeenNumberCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TeenNumberCheck.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Documentation/Methods/TeenNumberCheck.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="440">
-                <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FeetInchesParameter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MethodOverLoading/FeetInchesParameter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AreaCalculatorChallenge.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AreaCalculatorChallenge.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Documentation/MethodOverLoading/AreaCalculatorChallenge.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -146,6 +112,40 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="409">
                 <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayingCat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MethodOverLoading/PlayingCat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="10" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayingCat.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Documentation/MethodOverLoading/PlayingCat.md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="409">
+                <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -280,6 +280,8 @@
         <option value="$PROJECT_DIR$/src/main/java/MethodOverLoading/MinutesDaysYearsCalculator.java" />
         <option value="$PROJECT_DIR$/Documentation/MethodOverLoading/MinutesDaysYearsCalculator.md" />
         <option value="$PROJECT_DIR$/Documentation/MethodOverLoading/AreaCalculatorChallenge.md" />
+        <option value="$PROJECT_DIR$/src/main/java/MethodOverLoading/PlayingCat.java" />
+        <option value="$PROJECT_DIR$/Documentation/MethodOverLoading/PlayingCat.md" />
       </list>
     </option>
   </component>
@@ -1168,34 +1170,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Documentation/Methods/DecimalComparator.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/EqualSumChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Documentation/Methods/EqualSumChecker.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1807,6 +1781,36 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="409">
             <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MethodOverLoading/PlayingCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/MethodOverLoading/PlayingCat.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="409">
+            <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
