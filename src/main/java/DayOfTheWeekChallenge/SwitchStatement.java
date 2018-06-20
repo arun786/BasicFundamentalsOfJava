@@ -14,7 +14,7 @@ public class SwitchStatement {
         printDayOfTheWeek(day);
     }
 
-    public static void printDayOfTheWeek(int day) {
+    private static void printDayOfTheWeek(int day) {
         switch (day) {
             case 0:
                 System.out.println("Sunday");
