@@ -1,5 +1,6 @@
 package methodreference;
 
+import org.junit.Before;
 import org.junit.Test;
 
 import java.util.List;
@@ -12,12 +13,22 @@ import static org.hamcrest.core.IsEqual.equalTo;
  */
 public class MethodReferenceCompareTest {
 
+    MethodReferenceCompare methodReferenceCompare;
+
+    @Before
+    public void setUp() {
+        methodReferenceCompare = new MethodReferenceCompare();
+    }
+
     @Test
     public void testBasicSortWithoutLambdas() {
-
-        MethodReferenceCompare methodReferenceCompare = new MethodReferenceCompare();
         List<Human> humans = methodReferenceCompare.basicSortWithoutLambdas();
         assertThat(humans.get(0).getAge(), equalTo(3));
+    }
 
+    @Test
+    public void testBasicSortWithLambdaSupport() {
+        List<Human> humans = methodReferenceCompare.basicSortWithLambdaSupport();
+        assertThat(humans.get(0).getAge(), equalTo(3));
     }
 }

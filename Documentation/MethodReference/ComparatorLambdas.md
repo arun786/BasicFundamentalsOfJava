@@ -61,3 +61,19 @@ Test Class
     
         }
     }
+
+# with Lambda Support
+
+        public List<Human> basicSortWithLambdaSupport() {
+            List<Human> humans = Arrays.asList(new Human("Arun", 21), new Human("Adwiti", 3), new Human("Pushpa", 18));
+            humans.sort((h1, h2) -> h1.getAge() - h2.getAge());
+            return humans;
+        }
+    
+## test class
+
+        @Test
+        public void testBasicSortWithLambdaSupport() {
+            List<Human> humans = methodReferenceCompare.basicSortWithLambdaSupport();
+            assertThat(humans.get(0).getAge(), equalTo(3));
+        }
