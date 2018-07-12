@@ -110,3 +110,18 @@ Test Class
             List<Human> humans = methodReferenceCompare.sortUsingStaticMethod();
             assertThat(humans.get(0), equalTo(new Human("Arun", 3)));
         }
+        
+# Sorting using Comparator
+
+    public List<Human> sortUsingComparator() {
+            List<Human> humans = Arrays.asList(new Human("Arun", 21), new Human("Adwiti", 3), new Human("Pushpa", 18));
+            Collections.sort(humans, Comparator.comparing(Human::getAge));
+            return humans;
+        }
+ ## Test Case
+ 
+    @Test
+    public void testSortUsingComparator() {
+        List<Human> humans = methodReferenceCompare.sortUsingComparator();
+        assertThat(humans.get(0), equalTo(new Human("Adwiti", 3)));
+    }

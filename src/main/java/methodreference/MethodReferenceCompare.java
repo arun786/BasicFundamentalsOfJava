@@ -35,6 +35,12 @@ public class MethodReferenceCompare {
         humans.sort(Human::compareByAgeAndThenName);
         return humans;
     }
+
+    public List<Human> sortUsingComparator() {
+        List<Human> humans = Arrays.asList(new Human("Arun", 21), new Human("Adwiti", 3), new Human("Pushpa", 18));
+        Collections.sort(humans, Comparator.comparing(Human::getAge));
+        return humans;
+    }
 }
 
 @Getter

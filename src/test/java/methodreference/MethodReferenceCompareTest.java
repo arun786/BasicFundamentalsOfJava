@@ -37,4 +37,10 @@ public class MethodReferenceCompareTest {
         List<Human> humans = methodReferenceCompare.sortUsingStaticMethod();
         assertThat(humans.get(0), equalTo(new Human("Arun", 3)));
     }
+
+    @Test
+    public void testSortUsingComparator() {
+        List<Human> humans = methodReferenceCompare.sortUsingComparator();
+        assertThat(humans.get(0), equalTo(new Human("Adwiti", 3)));
+    }
 }
