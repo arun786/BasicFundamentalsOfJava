@@ -77,3 +77,36 @@ Test Class
             List<Human> humans = methodReferenceCompare.basicSortWithLambdaSupport();
             assertThat(humans.get(0).getAge(), equalTo(3));
         }
+        
+## using a static method
+
+    @Getter
+    @Setter
+    @NoArgsConstructor
+    @AllArgsConstructor
+    @EqualsAndHashCode
+    @ToString
+    class Human {
+        private String name;
+        private int age;
+    
+        public static int compareByAgeAndThenName(Human h1, Human h2) {
+            return h1.getName().equals(h2.getName()) ? h1.getAge() - h2.getAge() : h1.getName().compareTo(h2.getName());
+        }
+    }
+    
+## method where sorting is done
+
+    public List<Human> sortUsingStaticMethod() {
+            List<Human> humans = Arrays.asList(new Human("Arun", 21), new Human("Arun", 3), new Human("Pushpa", 18));
+            humans.sort(Human::compareByAgeAndThenName);
+            return humans;
+        }
+        
+## test case
+
+     @Test
+        public void testSortUsingStaticMethod() {
+            List<Human> humans = methodReferenceCompare.sortUsingStaticMethod();
+            assertThat(humans.get(0), equalTo(new Human("Arun", 3)));
+        }
